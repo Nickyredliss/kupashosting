@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kupashosting.com/sitemap.xml
